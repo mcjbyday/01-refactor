@@ -1,4 +1,4 @@
-## Horiseon landing page refactor project
+# Horiseon landing page refactor project
 
 ## Description
 <p>This repository contains a landing page for a digital marketing agency "Horiseon" which has refactored for improved accessibility.
