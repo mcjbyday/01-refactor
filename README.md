@@ -7,7 +7,7 @@
 <p>The application primarily makes use of HTML5, semantic tagging, and CSS3 styling.
 
 ## Links
-See it live:<br> [https://mcjybyday.github.io/01-refactor](https://mcjybyday.github.io/01-refactor)
+See it live:<br> [https://mcjbyday.github.io/01-refactor/](https://mcjbyday.github.io/01-refactor/)
 
     
 ## Screenshot
