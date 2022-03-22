@@ -16,7 +16,7 @@ See it live:<br> [https://mcjybyday.github.io/01-refactor](https://mcjybyday.git
 ## Other
 <p>No external installations are required to view this website. 
 
-## Content
+## Contact
 Comments or questions? <br>
 Author: Michael Jacobs <br>
 Email: jacobsmichaelc@gmail.com <br>
