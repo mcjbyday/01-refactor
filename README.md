@@ -4,7 +4,8 @@
 <p>This repository contains a landing page for a digital marketing agency "Horiseon" which has refactored for improved accessibility.
 
 ## Technologies
-<p>The application primarily makes use of HTML5, semantic tagging, and CSS3 styling.
+- HTML5
+- CSS3
 
 ## Links
 See it live:<br> [https://mcjbyday.github.io/01-refactor/](https://mcjbyday.github.io/01-refactor/)

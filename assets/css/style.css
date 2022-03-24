@@ -20,11 +20,12 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
-.header nav {
+/* made a class for this nav item*/
+.header-nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +33,13 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
+/* made a class for this unordered list */
+.header-ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+/* made this element more readable */
+.header-ul li {
     display: inline-block;
     margin-left: 25px;
 }
